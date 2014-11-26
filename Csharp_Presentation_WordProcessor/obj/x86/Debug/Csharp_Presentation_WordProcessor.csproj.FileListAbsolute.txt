@@ -1,0 +1,7 @@
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\bin\Debug\Csharp_Presentation_WordProcessor.exe
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\bin\Debug\Csharp_Presentation_WordProcessor.pdb
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\obj\x86\Debug\Csharp_Presentation_WordProcessor.Form1.resources
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\obj\x86\Debug\Csharp_Presentation_WordProcessor.Properties.Resources.resources
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\obj\x86\Debug\Csharp_Presentation_WordProcessor.csproj.GenerateResource.Cache
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\obj\x86\Debug\Csharp_Presentation_WordProcessor.exe
+C:\Users\Mechanic\documents\visual studio 2010\Projects\Csharp_Presentation_WordProcessor\Csharp_Presentation_WordProcessor\obj\x86\Debug\Csharp_Presentation_WordProcessor.pdb
